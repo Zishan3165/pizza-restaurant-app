@@ -1,6 +1,6 @@
 # Pizza Deliery App (React Native)
 A cross platform mobile application built with React Native (Expo) (2021) for pizza restaurants.
-Data was integrated through Apollo Client (Graphql)
+Data was integrated through Apollo Client (Graphql) and Class components were used.
 
 ## Features
 - Admin can register to their administrator account by using a unique registration code.
