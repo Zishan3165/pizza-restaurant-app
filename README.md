@@ -14,9 +14,9 @@ preference and availability.
 - Customization for the customer to customize their pizza’s base and size.
 - Store order history within the app under their unique customer ID which helps customers
 to reorder previous orders.
-● Redeem gift cards and e-coupons to finalise the order.
-● Creation of deals and e-coupons by administrator in the application.
-● Expiration and validation on deals and e-coupons by admin.
+- Redeem gift cards and e-coupons to finalise the order.
+- Creation of deals and e-coupons by administrator in the application.
+- Expiration and validation on deals and e-coupons by admin.
 
 ## Screens
 - Sign Up
@@ -34,3 +34,4 @@ to reorder previous orders.
 - Order Details
 
 ## Demo
+https://github.com/Zishan3165/pizza-restaurant-app/assets/33655095/acf4adbe-1622-4650-be7d-db06d5500f74
